@@ -1,6 +1,6 @@
 # Ensaio de Machine Learning
 
-![Capa Ensaio de Machine Learning]( img/ml_2.jpg)
+![Capa Ensaio de Machine Learning]( img/ml_3.jpg)
 
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
