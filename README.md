@@ -1,4 +1,7 @@
 # Ensaio de Machine Learning
+
+![Capa Ensaio de Machine Learning]( img/ml.jpg)
+
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
 fino dos algoritmos, feito pelos Cientistas de Dados da empresa, é a
